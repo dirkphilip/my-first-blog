@@ -1,6 +1,6 @@
 h1 a {
     color: #FCA205;
-    font-family: 'Arial';
+    font-family: 'Lobster';
 }
 
 .page-header {
@@ -20,7 +20,7 @@ h1 a {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Arial', cursive;
+    font-family: 'Lobster', cursive;
 }
 
 .date {
